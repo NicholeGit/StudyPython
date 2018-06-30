@@ -1,1 +1,1 @@
-# Studypythone
+# StudyPython
